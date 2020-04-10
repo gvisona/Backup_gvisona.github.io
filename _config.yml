@@ -1,17 +1,19 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Giovanni Visonà
+subtitle: 
+email: visona.giovanni@gmail.com
+additional_email: giovanni.visona@tuebingen.mpg.de
+description: I am a Machine Learning researcher.
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Giovanni Visonà
+institution: Max Planck Institute for Intelligent Systems 
+street_address: Max-Planck-Ring 4
+city: Tübingen
+state: Baden-Württemberg
+zip_code: 72076
+country: Germany
+phone: +49 7071 601 658 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +22,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/gvisona
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/giovanni-visona
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/gio_viso
 
 # build settings
 markdown: kramdown
