@@ -15,14 +15,20 @@
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
+            <div style="text-align: center;">
+                <img id="logo_img" src="/assets/images/logo.png" style="max-width: 10%;
+                height: auto;">
+            </div>
             <header class="major">
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
-                </ul>
+                
+                
+            </div>
+            <div style="text-align: center;">
+                <a href="#about" class="button scrolly" style="display: inline-block;">About Me</a>
             </div>
         </div>
     </section>
@@ -34,15 +40,12 @@
         {% include tiles.html %}
 
         <!-- Two -->
-        <section id="two">
+        <section id="about">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2>About Me</h2>
                 </header>
                 <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
             </div>
         </section>
 

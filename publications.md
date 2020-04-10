@@ -31,4 +31,6 @@ nav-menu: true
 	</dd>
 </dl>
 
+	</div>
+</section>
 </div>
