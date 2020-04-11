@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-layout: landing
+layout: page
 description: 
 image: assets/images/portfolio.jpg
 nav-menu: true
