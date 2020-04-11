@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 nav-menu: true
+image: assets/images/publications.jpg
+position: 4
 ---
 
 <div id="main" class="alt">

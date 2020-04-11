@@ -61,6 +61,26 @@
 			}
 		}
 
+		&.social_custom {
+			cursor: default;
+			list-style: none;
+			padding-left: 0;
+
+			li {
+				padding: 0.5em 1em 0 0;
+
+				&:last-child {
+					padding-right: 0;
+				}
+			}
+
+			@include breakpoint(small) {
+				li {
+					padding: 0 0.75em 0 0;
+				}
+			}
+		}
+
 		&.actions {
 			cursor: default;
 			list-style: none;
