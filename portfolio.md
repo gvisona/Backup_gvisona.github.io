@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 
 image: assets/images/portfolio.jpg
 nav-menu: true
 position: 2

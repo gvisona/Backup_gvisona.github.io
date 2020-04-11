@@ -10,7 +10,7 @@ position: 1
 <div id="main" class="alt">
 
 <!-- One -->
-<section id="social">
+<section id="social"  class="background-accent3">
 	<div class="inner">
 		<div class="row">
 			<div class="6u 12u$(small)">
@@ -67,7 +67,7 @@ position: 1
 
 
 <!-- Contact -->
-<section id="contact">
+<section id="contact"  class="background-accent6">
 	<div class="inner">
 		<section>	
 		<header class="major">
