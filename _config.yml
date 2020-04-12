@@ -5,7 +5,7 @@ email: visona.giovanni@gmail.com
 additional_email: giovanni.visona@tuebingen.mpg.de
 description: Machine Learning for Precision Medicine researcher
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://gvisona.com" # the base hostname & protocol for your site
 author: Giovanni Visonà
 institution: Max Planck Institute for Intelligent Systems 
 street_address: Max-Planck-Ring 4
