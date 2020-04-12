@@ -36,9 +36,9 @@ position: 3
                 </ul>
             </dd>
         </dl>
-        <div style="padding:0.5em 0; text-align: center;">
+        <!--<div style="padding:0.5em 0; text-align: center;">
             <a href="#" class="button special big" style="display: inline-block;">Download Résumé</a>
-        </div>  
+        </div>  -->
 	</div>
 </section>
 

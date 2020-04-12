@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affiliations and Collaborations
+title: Affiliations
 nav-menu: true
 image: assets/images/tiles/affiliations.jpg
 position: 5
