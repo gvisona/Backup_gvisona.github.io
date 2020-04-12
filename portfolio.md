@@ -37,7 +37,7 @@ position: 2
 <!-- Two -->
 <section id="ml-projects-list" class="spotlights">
 	<section>
-		<a href="https://github.com/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" target="_blank" class="image" >
+		<a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" target="_blank" class="image" >
 			<img src="{% link assets/images/portfolio/hierarchical_clustering.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -54,35 +54,35 @@ position: 2
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/portfolio/project2.png %}" alt="" data-position="top center" />
+		<a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Dimensionality%20Reduction.ipynb" class="image">
+			<img src="{% link assets/images/portfolio/dimensionality_reduction.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Dimensionality Reduction</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This notebook presents the background over the curse of dimensionality and explores a few dimensionality reduction techniques and their inner workings.</p>
 				<ul class="actions">
-					<li><a href="https://github.com/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb"  target="_blank" class="button">GitHub</a></li>
-					<li><a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" class="button">nbviewer</a></li>
+					<li><a href="https://github.com/gvisona/ML_Notebooks/blob/master/Dimensionality%20Reduction.ipynb"  target="_blank" class="button">GitHub</a></li>
+					<li><a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Dimensionality%20Reduction.ipynb" class="button">nbviewer</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://github.com/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" target="_blank" class="image" >
-			<img src="{% link assets/images/portfolio/project3.jpg %}" alt="" data-position="center center" />
+		<a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Variational%20Autoencoders.ipynb" target="_blank" class="image" >
+			<img src="{% link assets/images/portfolio/variational_inference.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Variational Inference and Variational Autoencoders</h3>
 				</header>
-				<p>This notebook explores the use of seriation to find an ordering of the features of a dataset that highlights a block struckture in the correlation matrix (blockmodeling). The approach shown here is based on the Pearson Correlation Coefficient, but can be taken as a basis in general for other correlation measures (e.g. distance correlation), or simply to reorder a distance matrix. </p>
+				<p>Variational Autoencoders (VAEs) are among the most prominent generative models in the machine learning literature. This notebook explores and simulates the core mechanism behind VAEs, variational inference, and implements a VAE example. </p>
 				<ul class="actions">
-					<li><a href="https://github.com/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb"  target="_blank" class="button">GitHub</a></li>
-					<li><a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" class="button">nbviewer</a></li>
+					<li><a href="https://github.com/gvisona/ML_Notebooks/blob/master/Variational%20Autoencoders.ipynb"  target="_blank" class="button">GitHub</a></li>
+					<li><a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Variational%20Autoencoders.ipynb" class="button">nbviewer</a></li>
 				</ul>
 			</div>
 		</div>
@@ -102,18 +102,18 @@ position: 2
 
 <section id="bioinf-projects-list" class="custom-spotlights-accent5" >
 	<section>
-		<a href="https://github.com/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" target="_blank" class="image" >
-			<img src="{% link assets/images/portfolio/hierarchical_clustering.jpg %}" alt="" data-position="center center" />
+		<a href="https://github.com/gvisona/BioInf_Notebooks/blob/master/Compartmental%20models%20for%20infectious%20diseases.ipynb" target="_blank" class="image" >
+			<img src="{% link assets/images/portfolio/compartmental_models.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hierarchical Clustering of Features</h3>
+					<h3>Compartmental Models for Infectious Diseases</h3>
 				</header>
-				<p>This notebook explores the use of seriation to find an ordering of the features of a dataset that highlights a block struckture in the correlation matrix (blockmodeling). The approach shown here is based on the Pearson Correlation Coefficient, but can be taken as a basis in general for other correlation measures (e.g. distance correlation), or simply to reorder a distance matrix. </p>
+				<p>One of the simples classes of mathematical models that describe the spread of infectious diseases is that of compartmental models. This notebook presents the basic concepts and some simulations to highlight their inner workings. </p>
 				<ul class="actions">
-					<li><a href="https://github.com/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb"  target="_blank" class="button">GitHub</a></li>
-					<li><a href="https://nbviewer.jupyter.org/github/gvisona/ML_Notebooks/blob/master/Hierarchical%20Clustering%20of%20Features.ipynb" class="button">nbviewer</a></li>
+					<li><a href="https://github.com/gvisona/BioInf_Notebooks/blob/master/Compartmental%20models%20for%20infectious%20diseases.ipynb"  target="_blank" class="button">GitHub</a></li>
+					<li><a href="https://nbviewer.jupyter.org/github/gvisona/BioInf_Notebooks/blob/master/Compartmental%20models%20for%20infectious%20diseases.ipynb" class="button">nbviewer</a></li>
 				</ul>
 			</div>
 		</div>
