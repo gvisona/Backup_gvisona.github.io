@@ -58,7 +58,7 @@ position: 1
 					<li><a href="https://ei.is.tuebingen.mpg.de/person/gvisona" target="_blank">MPI-IS profile page</a></li>
 					<li><a href="https://mlfpm.eu/projects-and-students/" target="_blank">MLFPM projects and students</a></li>
 					<li><a href="https://epi-logos.com/people/" target="_blank">Epi-Logos members</a></li>
-					<li><a href="https://scholar.google.com/citations?user=rKTQxfkAAAAJ" target="_blank">Google Scolar profile</a></li>
+					<li><a href="https://scholar.google.com/citations?user=rKTQxfkAAAAJ" target="_blank">Google Scholar profile</a></li>
 				</ul>
 			</div>	
 		</div>
