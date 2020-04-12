@@ -2,7 +2,7 @@
 title: Portfolio
 layout: page
 description: 
-image: assets/images/portfolio.jpg
+image: assets/images/tiles/portfolio.jpg
 nav-menu: true
 position: 2
 ---

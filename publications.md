@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 nav-menu: true
-image: assets/images/publications.jpg
+image: assets/images/tiles/publications.jpg
 position: 4
 ---
 

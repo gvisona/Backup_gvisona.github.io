@@ -2,7 +2,7 @@
 layout: page
 title: Affiliations and Collaborations
 nav-menu: true
-image: assets/images/affiliations.jpg
+image: assets/images/tiles/affiliations.jpg
 position: 5
 ---
 

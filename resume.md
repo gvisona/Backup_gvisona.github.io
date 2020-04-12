@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-image: assets/images/resume.jpg
+image: assets/images/tiles/resume.jpg
 nav-menu: true
 position: 3
 ---

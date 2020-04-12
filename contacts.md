@@ -2,7 +2,7 @@
 layout: page
 title: Contact Me
 nav-menu: true
-image: assets/images/contacts.jpg
+image: assets/images/tiles/contacts.jpg
 position: 1
 ---
 
