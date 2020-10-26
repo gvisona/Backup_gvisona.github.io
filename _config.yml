@@ -1,8 +1,6 @@
 # site settings
 title: Giovanni Visonà
 subtitle: 
-email: visona.giovanni@gmail.com
-additional_email: giovanni.visona@tuebingen.mpg.de
 description: Machine Learning for Precision Medicine researcher
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://gvisona.com" # the base hostname & protocol for your site

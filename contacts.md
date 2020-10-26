@@ -69,11 +69,11 @@ position: 1
 <!-- Contact -->
 <section id="contact"  class="background-accent6">
 	<div class="inner">
-		<section>	
+		<section>
 		<header class="major">
 			<h1>Send me a message</h1>
 		</header>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+			<form id="message-form" action="" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
@@ -87,14 +87,15 @@ position: 1
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="submit" value="Send Message" class="special"
+					onclick="decodeEmail();"/></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
 			<p>This website does not store any information on your submitted email. The contact form simply forwards an email message.</p>
 		</section>
 		<section class="split">
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
@@ -103,7 +104,7 @@ position: 1
 						<a href="mailto:{{ site.additional_email }}">{{ site.additional_email }}</a>
 					{% endif %}
 				</div>
-			</section>
+			</section> -->
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
