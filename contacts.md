@@ -33,9 +33,6 @@ position: 1
 					{% if site.pinterest_url %}
 					<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span >	&nbsp;Pinterest</span></a></li>
 					{% endif %}
-					{% if site.500px_url %}
-					<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span >	&nbsp;500px</span></a></li>
-					{% endif %}
 					{% if site.gitlab_url %}
 					<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span >	&nbsp;GitLab</span></a></li>
 					{% endif %}
@@ -72,8 +69,9 @@ position: 1
 		<section>
 		<header class="major">
 			<h1>Send me a message</h1>
+			<h3><a id="contact-link" href="" onclick="decodeEmail()"><i class="fa fa-solid fa-link"></i> Contact me via email</a></h3>
 		</header>
-			<form id="message-form" action="" method="POST">
+			<!-- <form id="message-form" action="" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
@@ -91,8 +89,8 @@ position: 1
 					onclick="decodeEmail();"/></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
-			</form>
-			<p>This website does not store any information on your submitted email. The contact form simply forwards an email message.</p>
+			</form> -->
+			<p>For any research or business inquiry contact me via email or on my social accounts.</p>
 		</section>
 		<section class="split">
 			<!-- <section>
@@ -105,17 +103,17 @@ position: 1
 					{% endif %}
 				</div>
 			</section> -->
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<span>{{ site.phone }}</span>
 				</div>
-			</section>
+			</section> -->
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-building"></span>
-					<h3>Address</h3>
+					<h3>Institutional Address</h3>
 					<span>
 					{% if site.institution %}
 					    <b>{{ site.institution }}</b><br />

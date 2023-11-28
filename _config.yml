@@ -11,7 +11,7 @@ city: Tübingen
 state: Baden-Württemberg
 zip_code: 72076
 country: Germany
-phone: +49 7071 601 658 
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -27,7 +27,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/giovanni-visona
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/gio_viso
+twitter_url: 
 
 # build settings
 markdown: kramdown

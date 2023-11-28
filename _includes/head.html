@@ -4,6 +4,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
+	<link rel="stylesheet" href="{{ "assets/css/academicons.min.css" | relative_url }}"/>
+	<link rel="stylesheet" href="{{ "assets/css/font-awesome.min.css" | relative_url }}"/>
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
 
@@ -47,9 +49,12 @@
 			  link += (key.charAt(ltr))
 			}
 		  }
-		document.getElementById('message-form').action = 'https://formspree.io/' + link;
+		  var URL = "mailto:".concat(link);
+		  window.open(URL, '_blank');
+		// document.getElementById('message-form').action = 'https://formspree.io/' + link;
 		// document.write("<a href='mailto:"+link+"'>"+link+"</a>")
 		}
+
 		</script>
 		<noscript>Sorry, you need Javascript on to email me.</noscript>
 </head>
