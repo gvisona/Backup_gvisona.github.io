@@ -3,7 +3,7 @@ layout: page
 title: Publications
 nav-menu: true
 image: assets/images/tiles/publications.jpg
-position: 4
+position: 2
 ---
 
 <div id="main" class="alt">
@@ -25,7 +25,7 @@ position: 4
 			Nature Communications, 14(1), 4750.</p>
 		</dd>
 		<dd>
-			<p>Visonà, G., Duroux, D., Miranda, L., Sükei, E., Li, Y., Borgwardt, K., & Oliver, C. (2023)
+			<p>Visonà, G.*, Duroux, D.*, Miranda, L., Sükei, E., Li, Y., Borgwardt, K., & Oliver, C. (2023)
 			<a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad717/7450077" target="_blank">
 			Multimodal learning in clinical proteomics: enhancing antimicrobial resistance prediction models with chemical information.</a>
 			Bioinformatics, btad717.</p>

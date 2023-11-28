@@ -17,7 +17,7 @@ position: 6
 		<div class="box alt">
 			<div class="row 80% uniform">
 				<p>I like to say that what drives me most is my deep curiosity, which pushes me to always try something new.
-				My hobbies include reading, cooking, crochet, photography, and playing the piano and the guitar. </p>
+				My hobbies include reading, cooking, crochet, and playing the piano and the guitar. </p>
 			</div>
 			<div class="row 80% uniform">
 				<!-- Images have a 9:8 ratio -->

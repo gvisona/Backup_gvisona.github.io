@@ -4,7 +4,7 @@ layout: page
 description: 
 image: assets/images/tiles/portfolio.jpg
 nav-menu: true
-position: 2
+position: 4
 ---
 
 <!-- Main -->
