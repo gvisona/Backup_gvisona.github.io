@@ -3,7 +3,7 @@ layout: page
 title: Résumé
 image: assets/images/tiles/resume.jpg
 nav-menu: true
-position: 3
+position: 4
 ---
 
 <!-- Main -->

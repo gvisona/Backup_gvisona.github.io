@@ -152,4 +152,9 @@ $palette_element:();
 }
 
 @include spotlights(bg-alt);
+@include spotlights(accent1);
+@include spotlights(accent2);
+@include spotlights(accent3);
+@include spotlights(accent4);
 @include spotlights(accent5);
+@include spotlights(accent6);
