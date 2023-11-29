@@ -17,7 +17,7 @@ position: 3
 		<header class="major">
 			<h1>Machine Learning and Data Science</h1>
 		</header>
-		<p>This page contains links to some of my projects that showcase my interests in competences in machine learning and bioinformatics. The projects are grouped in:</p>
+		<p>This page contains links to some of my projects that showcase my interests and competences in machine learning and bioinformatics. The projects are grouped in:</p>
 		<ul>
 			<li><a href="#research-projects" class="scrolly">Research Projects</a></li>
 			<li><a href="#ml-projects" class="scrolly">Topics in Machine Learning</a></li>
