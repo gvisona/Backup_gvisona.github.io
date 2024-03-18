@@ -72,7 +72,7 @@ position: 3
 	</section>
 	<section>
 		<a href="https://github.com/gvisona/GWAS_NetworkPropagation" target="_blank" class="image" >
-			<img src="{% link assets/images/portfolio/gwas.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/portfolio/network_propagation.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
