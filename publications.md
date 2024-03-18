@@ -17,6 +17,16 @@ position: 2
 	<a href="https://orcid.org/0000-0002-7878-5448" class="button" target="_blank"><i class="ai ai-orcid ai-3x" style=" vertical-align: middle;padding-bottom:5px;"></i>  ORCiD</a>
 	<hr class="major" />
 	<dl>
+		<dt>2024</dt>
+		<dd>
+			<p>Visonà, G., Bouzigon, E., Demenais, F., & Schweikert, G. (2023)
+			<a href="https://doi.org/10.1093/bib/bbae014" target="_blank">
+			 Network propagation for GWAS analysis: a practical guide to leveraging molecular networks for disease gene discovery.</a>
+			NBriefings in Bioinformatics</p>
+		</dd>
+	</dl>
+	<hr class="major" />
+	<dl>
 		<dt>2023</dt>
 		<dd>
 			<p>Hawkins-Hooker, A.*, Visonà, G.*, Narendra, T., Rojas-Carulla, M., Schölkopf, B., & Schweikert, G. (2023)
