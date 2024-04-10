@@ -30,9 +30,71 @@ position: 4
             </dt>
             <dd class="resume_item_description">
                 <ul>
-                    <li>Early Stage Researcher in the Machine Learning Frontiers in Precision Medicine european program. </li>
-                    <li>Focus on deep representation learning for cancer study. </li>
-                    <li>Supervisors: Prof. Bernhard Schölkopf and Dr. Gabriele Schweikert.</li>
+                    <li>Part of the Marie Curie Innovative Training Network entitled “Machine Learning Frontiers in Precision Medicine” </li>
+                    <li>Collaborated with international groups of experts from a variety of scientific domains, which led to the development of multidisciplinary skills. </li>
+                    <li>Designed and implemented deep-learning-based models and probabilistic models to solve problems in biology and biomedicine.</li>
+                    <li>Gained expertise with several types of biological data, including sequencing data, proteomics, mass spectra, clinical records, molecular networks, chemical structures.</li>
+                    <li>Published as first author or shared first author in internationally renowned journals, including Nature Communications, Bioinformatics, and Briefings in Bioinformatics.</li>
+                    <li>Gained mentoring experience, helping supervise Master students. Part of the MAXMINDS mentoring network to help disadvantaged students affected by the 2023 earthquake in Turkey and Syria.</li>
+                    <li>Supervised by Prof. Bernhard Schölkopf and Dr. Gabriele Schweikert.</li>
+                </ul>
+            </dd>
+        </dl>
+        <!--<div style="padding:0.5em 0; text-align: center;">
+            <a href="#" class="button special big" style="display: inline-block;">Download Résumé</a>
+        </div>  -->
+	</div>
+</section>
+
+<section id="current-position" class="background-accent6">
+	<div class="inner" >
+        <header class="major">
+			<h1>Skills</h1>
+		</header>
+		<dl>
+            <dt>
+                <div class="resume_item_title">
+                    <div class="resume_title_left">
+                        <h3>Technical Skills</h3>
+                    </div>    
+                    <!-- <div class="resume_title_right">
+                        <h5>Tubingen, Germany</h5>
+                        <h4>Max Planck Institute for Intelligent Systems</h4>         
+                    </div> -->
+                </div>
+            </dt>
+            <dd class="resume_item_description">
+                <ul>
+                    <li><b>Machine Learning and Statistics:</b> Deep learning, Transformers, LLMs, Linear algebra, Bayesian modeling, Explainable AI, Graph Neural Networks, Network Analysis, Conformal inference hypothesis testing, MLflow. </li>
+                    <li><b>Python:</b> PyTorch, NumPy, Pandas, scikit-learn, networkX, statsmodels, PyMC, FastAPI, Flask. </li>
+                    <li><b>Data Manipulation and Visualization:</b> SQLite, HDF5, Interactive visualizations, Data mining, Exploratory data analysis. </li>
+                    <li><b>R Programming:</b> Tidyverse, caret, tidymodels, Bioconductor. </li>
+                    <li><b>Software Development:</b> Git, Github, Docker. </li>
+                    <li><b>Specialized Software:</b> RDKit, BLAST, MMSeqs2. </li>
+                </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>
+                <div class="resume_item_title">
+                    <div class="resume_title_left">
+                        <h3>Experience with the following biomedical topics and data types</h3>
+                    </div>    
+                    <!-- <div class="resume_title_right">
+                        <h5>Tubingen, Germany</h5>
+                        <h4>Max Planck Institute for Intelligent Systems</h4>         
+                    </div> -->
+                </div>
+            </dt>
+            <dd class="resume_item_description">
+                <ul>
+                    <li><b>Antimicrobial resistance and clinical pathology:</b> MALDI-TOF spectrometry, drug resistance outcomes. </li>
+                    <li><b>Clinical oncology and cancer biology:</b> clinical data of cancer patients, somatic mutation profiles, TCGA database. </li>
+                    <li><b>Epigenetics:</b> histone modifications (ChIP-seq), DNA methylation (BS-Seq), chromatin accessibility (ATAC-seq, DNase-seq), ENCODE and Roadmap Epigenomics databases. </li>
+                    <li><b>Proteins:</b> UniProt and UniRef databases, LLMs for proteins, AlphaFold. </li>
+                    <li><b>Omics data:</b> scRNA-seq, RNAseq. </li>
+                    <li><b>Immunology and immunopeptidomics:</b> MHC class I pathway, HLA alleles, pMHC complexes, immunoglobulin structure, IEDB database. </li>
+                    <li><b>Representations of small molecules:</b> SMILES, chemical fingerprints, graph-based representations, ChEMBL database. </li>
                 </ul>
             </dd>
         </dl>
@@ -69,7 +131,9 @@ position: 4
             </dt>
             <dd class="resume_item_description">
                 <ul>
-                    <li>Developer ABAP, Python and JavaScript. </li>
+                    <li>Contributed to the creation of customized software solutions for clients, prioritizing robustness in design and ensuring on-time delivery. </li>
+                    <li>Applied object-oriented principles and design patterns to create scalable and maintainable code in Python and JavaScript. </li>
+                    <li>Developed presentations and proposals by synthesizing data and insights into actionable recommendations. </li>
                 </ul>
             </dd>
         </dl>
