@@ -9,6 +9,7 @@ position: 4
 <!-- Main -->
 <div id="main"  class="alt">
 
+
 <!-- One -->
 <section id="current-position" class="background-accent5">
 	<div class="inner" >
@@ -43,6 +44,7 @@ position: 4
         <!--<div style="padding:0.5em 0; text-align: center;">
             <a href="#" class="button special big" style="display: inline-block;">Download Résumé</a>
         </div>  -->
+        <a href="assets/files/CV_GVisona.pdf" target="_blank" class="button special icon fa-download">Download CV in pdf format</a>
 	</div>
 </section>
 
